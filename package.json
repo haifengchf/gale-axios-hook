@@ -1,0 +1,21 @@
+{
+  "name": "gale-axios-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haifengchf/gale-axios-hook.git"
+  },
+  "keywords": [
+    "axios"
+  ],
+  "author": "gale",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
